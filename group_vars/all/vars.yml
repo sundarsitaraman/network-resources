@@ -1,0 +1,3 @@
+Stack.Name: network-resources
+
+Stack.Template: templates/network.yml.j2

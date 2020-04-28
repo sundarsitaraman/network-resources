@@ -1,0 +1,6 @@
+Sts.Role: arn:aws:iam::470132768494:role/admin
+
+Config.Vpcs:
+  Default:
+    Cidr: 192.168.0.0/20
+    Domain: dockerproductionawsmsitara41.org
